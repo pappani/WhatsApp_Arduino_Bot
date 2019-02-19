@@ -16,5 +16,4 @@ As soon as the Arduino is powered on it connects to the GPRS operator, and then 
 The user now follow the WhatsApp Web login procedure using his smartphone. After that the Arduino is capable of sending and receiving WhatsApp messages remotely without using the smartphone (it still needs to remain connected to Wi-Fi or 3G).
 
 # Example
-
 ![alt text](https://raw.githubusercontent.com/pappani/WhatsApp_Arduino_Bot/master/oled_out.jpg)
