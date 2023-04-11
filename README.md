@@ -1,5 +1,5 @@
 # WhatsApp Arduino Bot
-A remotly accessible Python WhatsApp bot, and an Arduino sketch to access it via GPRS
+A remotely accessible Python WhatsApp bot, and an Arduino sketch to access it via GPRS
 
 ## Introduction
 This project is a proof of concept.
